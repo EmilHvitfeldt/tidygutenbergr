@@ -1,0 +1,6 @@
+^\.github$
+^cran-comments\.md$
+^LICENSE\.md$
+^tidygutenbergr\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
