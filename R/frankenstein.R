@@ -2,17 +2,13 @@
 #'
 #' Downlaod and lightly preprocess "Frankenstein".
 #'
-#' @return tibble with 3 columns. "text" and "chapter".
+#' @return tibble with 2 columns. "text" and "chapter".
 #' @export
 #'
 #' @examples
 #' \dontrun{
 #' frankenstein()
 #' }
-#'
-#' @importFrom gutenbergr gutenberg_download
-#' @importFrom dplyr slice select mutate
-#' @importFrom stringr str_detect
 frankenstein <- function() {
   text <- gutenberg_download(84)
 

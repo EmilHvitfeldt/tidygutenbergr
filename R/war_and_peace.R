@@ -9,7 +9,6 @@
 #' \dontrun{
 #' war_and_peace()
 #' }
-#' @importFrom dplyr ungroup group_by
 war_and_peace <- function() {
   text <- gutenberg_download(2600)
 

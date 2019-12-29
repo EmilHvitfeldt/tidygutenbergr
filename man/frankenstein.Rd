@@ -7,7 +7,7 @@
 frankenstein()
 }
 \value{
-tibble with 3 columns. "text" and "chapter".
+tibble with 2 columns. "text" and "chapter".
 }
 \description{
 Downlaod and lightly preprocess "Frankenstein".
@@ -16,5 +16,4 @@ Downlaod and lightly preprocess "Frankenstein".
 \dontrun{
 frankenstein()
 }
-
 }
