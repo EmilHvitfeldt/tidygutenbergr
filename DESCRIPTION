@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "emilhhvitfeldt@gmail.com")
 Description: What the package does (one paragraph).
-License: GPL-3
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

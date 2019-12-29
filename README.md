@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/EmilHvitfeldt/tidygutenbergr.svg?branch=master)](https://travis-ci.org/EmilHvitfeldt/tidygutenbergr)
 <!-- badges: end -->
 
 The goal of tidygutenbergr is to provide simple cleaning functions for
